@@ -1,4 +1,4 @@
-10000hours
+**10000hours**
 
   ![스크린샷 2024-03-18 150630](https://github.com/2ung2rl/FE-Project/assets/155498417/0ce2bb2e-7dcb-4361-a0df-81f4d390c560)
   
@@ -9,7 +9,7 @@
   결과
 
 
-HODU
+**HODU**
 
   ![스크린샷 2024-03-18 150853](https://github.com/2ung2rl/FE-Project/assets/155498417/1f2f6322-72f0-4053-8009-4163e927748e)
 
